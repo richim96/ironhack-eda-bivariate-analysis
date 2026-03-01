@@ -64,3 +64,9 @@ which provides information on product categories, brands, prices, ratings, and m
     - Use a scatter plot to visualize the relationship between product rating and price. What patterns can you observe?
     - Use a correlation heatmap to visualize correlations between all numerical variables.
     - Examine if product prices typically follow a normal distribution using a QQ plot. 
+
+---
+
+**Bonus**: 
+
+- Do the same analysis without removing the outliers. What are your insights?
